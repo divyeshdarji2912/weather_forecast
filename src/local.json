@@ -1,0 +1,25 @@
+{
+    "cards": [
+      {
+        "time" : 1649095200,
+        "temperatureHigh": 105,
+        "temperatureLow": 102,
+        "icon": "Test",
+        "summary": "All good"
+      },
+      {
+        "time" : 1649106000,
+        "temperatureHigh": 150,
+        "temperatureLow": 120,
+        "icon": "Test1",
+        "summary": "All good 1"
+      },
+      {
+        "time" : 1649106000,
+        "temperatureHigh": 150,
+        "temperatureLow": 120,
+        "icon": "Test1",
+        "summary": "All good 1"
+      }
+    ]
+}

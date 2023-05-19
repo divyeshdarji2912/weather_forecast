@@ -1,0 +1,10 @@
+.cards {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.weather-card {
+  float: left;
+  width: 140px;
+  margin: 10px;
+}
